@@ -1,6 +1,6 @@
 # Sketch-to-image-translation-using-cGANs
 ![Generic badge](https://img.shields.io/badge/Deep_Learning:-green.svg) ![Generic badge](https://img.shields.io/badge/Python-V3:-blue.svg)
-![Generic badge](https://img.shields.io/badge/PyTorch:-green.svg)  ![Generic badge](https://img.shields.io/badge/GANs:-blue.svg)    ![Generic badge](https://img.shields.io/badge/Image_Processing:-green.svg)  ![Generic badge](https://img.shields.io/badge/Image_to_Image_Translation:-orange.svg)  ![Generic badge](https://img.shields.io/badge/cGAN:-red.svg)
+![Generic badge](https://img.shields.io/badge/Keras:-green.svg)  ![Generic badge](https://img.shields.io/badge/GANs:-blue.svg)    ![Generic badge](https://img.shields.io/badge/Image_Processing:-green.svg)  ![Generic badge](https://img.shields.io/badge/Image_to_Image_Translation:-orange.svg)  ![Generic badge](https://img.shields.io/badge/cGAN:-red.svg)
 
 # Introduction
 What is Image to Image translation? <br>
